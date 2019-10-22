@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "924C7377-DB29-4BF5-A723-51FAA04AA06F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5207258B-F2DE-4E1A-AC76-CDE9E689F927"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4. &#x5bfb;&#x627e;&#x4e24;&#x4e2a;&#x6709;&#x5e8f;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x4f4d;&#x6570;/main.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "findMedianSortedArrays(nums1, nums1Size, nums2, nums2Size)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
